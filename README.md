@@ -14,7 +14,8 @@ Blink when a valid CSV row is parsed (valid_out = 1 in data_filter).
 Blink faster if flow_daily exceeds a threshold (e.g., $10M).
 
 
-Refernce: 
+Refernce:
+
 https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHspecification.pdf 
 
 https://docs.data.nasdaq.com/docs/getting-started
