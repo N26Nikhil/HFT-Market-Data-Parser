@@ -21,3 +21,5 @@ https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproduct
 https://docs.data.nasdaq.com/docs/getting-started
 
 https://data.nasdaq.com/api/v1/bulkdownloads/FOO/BAR?date.eq=2024-03-20&symbol.eq=ZZYZ
+
+https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
